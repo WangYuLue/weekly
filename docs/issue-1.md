@@ -2,7 +2,7 @@
 
 由于微信不允许外部链接，你需要点击页尾左下角的“<span style='color:#1e6bb8;'>阅读原文</span>”，才能访问文中的链接。
 
-# 新闻
+## 新闻
 
 ### 1、[离太阳最近的探测器器](https://www.universal-sci.com/headlines/2018/10/29/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun)
 
@@ -76,7 +76,7 @@
 
 因此，公斤以后将会通过基于基本常数的计算重新定义。
 
-# 教程
+## 教程
 
 ### 1、[30分钟理解经济机器运行原理](https://zhuanlan.zhihu.com/p/47616503?utm_source=ZHShareTargetIDMore&utm_medium=social&utm_oi=50987309989888)
 
@@ -92,7 +92,7 @@ WebAssembly是一种新的编码方式,它提供了一条途径，以使得以�
 
 这个github库以问答形式对常用的概率知识、线性代数、机器学习、深度学习、计算机视觉等热点问题进行阐述。
 
-# 工具
+## 工具
 
 ### 1、[MarginNote](https://www.marginnote.com/)
 
@@ -113,13 +113,13 @@ visualgo是一个数据结构和算法动态可视化网站，在这里你可�
 
 cheat.sh 是一个网站，更是一个实用的速查工具。
 
-# 博客
+## 博客
 
 ### 1、[浅谈网络安全--xss、csrf、csp](http://www.wangyulue.com/2018/10/25/%E6%B5%85%E8%B0%88%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8-xss%E3%80%81csrf%E3%80%81csp/#more)
 
 本文帮你快速了解前端网络安全的一些基础概念。
 
-# 新奇
+## 新奇
 
 ### 1、[机械二进制的工作原理](https://twitter.com/ThingsWork/status/1051219022988173312)
 
@@ -131,7 +131,7 @@ cheat.sh 是一个网站，更是一个实用的速查工具。
 
 这些家伙8天才下树排一次便，因为在地面上它们容易遭受老虎以及鹰的袭击，所幸的是，树懒的新陈代谢非常缓慢，所以8天排一次便对他们来说不是问题。
 
-# 图片
+## 图片
 
 ### 1、[77％的威尼斯被水淹没](https://www.instagram.com/p/BplEj_lA__6/?utm_source=ig_web_button_share_sheet)
 ![](http://phgxcuckd.bkt.clouddn.com/image/blog/44341446_134554794185008_8335939179629622725_n.jpg)
@@ -141,7 +141,7 @@ cheat.sh 是一个网站，更是一个实用的速查工具。
 ![](http://phgxcuckd.bkt.clouddn.com/image/blog/44207512_714348095601626_651976763205511483_n.jpg)
 印度周三揭幕了这座世界上最大的雕像：古吉拉特邦一座182米高的Sardar Patel雕塑。 这座纪念碑被称为团结雕像，几乎是自由女神像的两倍。
 
-# 欢迎订阅
+## 欢迎订阅
 
 这篇文章同步更新在的[个人网站](http://www.wangyulue.com/)、[知乎专栏](https://zhuanlan.zhihu.com/wangyulue)、和微信公众号上，
 微信搜索 **"聪聪写字的地方"** 或者扫描二维码，即可订阅。
