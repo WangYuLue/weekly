@@ -1,17 +1,14 @@
 这里记录过去一周，我看到的值得分享的东西
 
-
-# 新闻
-
-### 1、[港珠澳大桥开通](http://www.xinhuanet.com/gangao/zt/ldzt/gzadq/)
-
 ![Alt text](http://phgxcuckd.bkt.clouddn.com/640.webp)
 
 港珠澳大桥是连接香港大屿山、澳门半岛和广东省珠海市的大型跨海通道，于2009年12月15日动工，2018年5月23日完工，2018年10月24日上午9时通车；设计寿命为120年。现为世界上最长的沉管隧道及世界跨海距离最长的桥隧组合公路。
 
 港珠澳大桥全长55千米，主桥全长约29.6千米。启用后，穿梭香港、珠海、澳门三地的交通时间将锐减，行车时间仅需一小时左右，而且不需要再绕经虎门大桥；而港珠澳也会形成“一小时生活圈”。
 
-### 2、[离太阳最近的探测器器](https://www.universal-sci.com/headlines/2018/10/29/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun)
+# 新闻
+
+### 1、[离太阳最近的探测器器](https://www.universal-sci.com/headlines/2018/10/29/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun)
 
 
 <video id="video" controls="" preload="none" poster="http://phgxcuckd.bkt.clouddn.com/image/blog/181101_4.jpg">
@@ -20,6 +17,14 @@
 
 
 帕克太阳探测器现在拥有人造物体最接近太阳的记录，该探测器在2018年10月29日美国东部时间下午1点04分创造了仅距太阳表面2655万英里的记录。
+
+### 2、[AI胜过人类律师](http://phgxcuckd.bkt.clouddn.com/2018-10-31-image-17.jpg)
+
+![Alt text](http://phgxcuckd.bkt.clouddn.com/2018-10-31-image-16.jpg)
+
+人工智能在某些非核心法律任务上比律师工作得更快并不让人惊讶。但律师和公众普遍认为，机器无法与人类智力相匹配，无法在日常基本法律工作中获得准确性。
+
+但是在最近的一个拟议法律问题的比赛中，律师平均花了92分钟完成任务，平均准确率达到85％。而LawGeex的神经网络只用了26秒就审查了所有五份合同，准确率为94％。
 
 ### 3、[9900万年前的甲虫](https://www.livescience.com/63966-beetle-amber-continental-shift.html?utm_content=bufferca3f8&utm_medium=social&utm_source=twitter)
 
@@ -57,7 +62,7 @@
 
 ![Alt text](http://phgxcuckd.bkt.clouddn.com/181102_1.jpeg)
 
-苏富比拍卖行所说的三个月球样本是目前已知私人手中唯一的月球岩石，它们来自1970年返回地球的无人苏维埃Luna-16任务。经样品测试它们有着34亿年的历史，在纽约拍摄的这张照片中，它们显示在可调节镜头的玻璃下面。
+苏富比拍卖行将要拍卖的三个月球样本是目前已知私人手中唯一的月球岩石，它们有着34亿年的历史，来自1970年返回地球的无人苏维埃Luna-16任务。在纽约拍摄的这张照片中，它们显示在可调节镜头的玻璃下面。
 
 这些月球岩石尺寸大约在2 x 2毫米到1 x 1毫米，在拍卖会上它们将被拍卖70万至100万美元。
 
