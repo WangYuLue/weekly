@@ -1,15 +1,5 @@
 这里记录过去一周，我看到的值得分享的东西。
 
-![](http://phgxcuckd.bkt.clouddn.com/journal.pone.0083325.g002.png)
-
-从眼角膜的反射中提取可识别的图像。
-
-结合强大的人脸感知和高分辨率摄影，调查者可以挖掘隐藏的面部信息。通过放大高分辨率的脸部照片，我们能够从受试者眼睛的反射中恢复看不见的旁观者的图像。这可能有助于识别犯罪者。
-
-以上图为例，图A的宽度为5412像素，高度为7,216像素（总共39,052,922像素）。整个面部区域（不包括头发）平均约为1200万像素，图B虹膜区域平均约占54,000像素，占整个面部区域的0.5％。图c角膜反射的人物图像宽27到36像素，高42到56像素。反射旁观者的整个面部区域平均为322个像素，或者为摄影对象的整个面部区域的约0.003％。
-
-在未来，随着科技进步，拍摄图片的分辨率不断提高，眼角膜的反射的图像也更加清晰，从中也能得到更多的信息。
-
 # 新闻
 
 ### 1、[离太阳最近的探测器器](https://www.universal-sci.com/headlines/2018/10/29/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun)
@@ -59,7 +49,16 @@
 
 港珠澳大桥是连接香港大屿山、澳门半岛和广东省珠海市的大型跨海通道，于2009年12月15日动工，2018年5月23日完工，2018年10月24日上午9时通车；设计寿命为120年。现为世界上最长的沉管隧道及世界跨海距离最长的桥隧组合公路。
 
-### 7、[月球岩石拍卖](https://www.reuters.com/article/us-space-moon-auction/soviet-era-moon-fragments-could-reach-1-million-at-n-y-auction-idUSKCN1N41J9)
+
+### 7、[从眼角膜的反射中提取可识别的图像](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0083325)
+![](http://phgxcuckd.bkt.clouddn.com/journal.pone.0083325.g002.png)
+
+结合强大的人脸感知和高分辨率摄影，调查者可以挖掘隐藏的面部信息。通过放大高分辨率的脸部照片，我们能够从受试者眼睛的反射中恢复看不见的旁观者的图像。这可能有助于识别犯罪者。
+
+以上图为例，图A的宽度为5412像素，高度为7,216像素（总共39,052,922像素）。整个面部区域（不包括头发）平均约为1200万像素，图B虹膜区域平均约占54,000像素，占整个面部区域的0.5％。图c角膜反射的人物图像宽27到36像素，高42到56像素。反射旁观者的整个面部区域平均为322个像素，或者为摄影对象的整个面部区域的约0.003％。
+
+
+### 8、[月球岩石拍卖](https://www.reuters.com/article/us-space-moon-auction/soviet-era-moon-fragments-could-reach-1-million-at-n-y-auction-idUSKCN1N41J9)
 
 ![](http://phgxcuckd.bkt.clouddn.com/181102_1.jpeg)
 
@@ -67,7 +66,7 @@
 
 这些月球岩石尺寸大约在2 x 2毫米到1 x 1毫米，在拍卖会上它们将被拍卖70万至100万美元。
 
-### 8、[重新定义公斤](https://www.scientificamerican.com/article/redefining-the-kilogram/)
+### 9、[重新定义公斤](https://www.scientificamerican.com/article/redefining-the-kilogram/)
 
 ![](http://phgxcuckd.bkt.clouddn.com/67F7EEE7-9DEE-4794-9B4A21A34A06FD14_source.jpg)
 
