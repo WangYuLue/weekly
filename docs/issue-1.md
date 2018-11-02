@@ -1,5 +1,7 @@
 这里记录过去一周，我看到的值得分享的东西。
 
+由于微信不允许外部链接，你需要点击页尾左下角的“<span style='color:#1e6bb8;'>阅读原文</span>”，才能访问文中的链接。
+
 # 新闻
 
 ### 1、[离太阳最近的探测器器](https://www.universal-sci.com/headlines/2018/10/29/parker-solar-probe-breaks-record-becomes-closest-spacecraft-to-sun)
@@ -113,7 +115,7 @@ cheat.sh 是一个网站，更是一个实用的速查工具。
 
 # 博客
 
-### 1、[浅谈网络安全--xss、csrf、csp](http://localhost:4000/2018/10/25/%E6%B5%85%E8%B0%88%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8-xss%E3%80%81csrf%E3%80%81csp/#more)
+### 1、[浅谈网络安全--xss、csrf、csp](http://www.wangyulue.com/2018/10/25/%E6%B5%85%E8%B0%88%E7%BD%91%E7%BB%9C%E5%AE%89%E5%85%A8-xss%E3%80%81csrf%E3%80%81csp/#more)
 
 本文帮你快速了解前端网络安全的一些基础概念。
 
